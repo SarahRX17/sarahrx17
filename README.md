@@ -1,16 +1,16 @@
-### Hi there 👋
+Boas vindas a meu perfil 🖤💙
 
-<!--
-**SarahRX17/sarahrx17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é sara gomes
 
-Here are some ideas to get you started:
+-estou estudando na [alura](https://www.alura.com.br)
+-estou me desenvolvendo na linguagem javaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voce pode entrar em contato comigo📫
+- 
+-luisguerreiro1403@gmail.com
+
+-@luisguerreiro
+
+![](https://media1.tenor.com/m/DQ4difqXhEsAAAAC/cat-cat-face.gif)
+https://media1.tenor.com/m/DQ4difqXhEsAAAAC/cat-cat-face.gif
